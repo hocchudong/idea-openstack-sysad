@@ -1,4 +1,4 @@
-# Sysad, DevOps - Thỏa sức sáng tạo 
+# Sysad, DevOps - Thỏa sức sáng tạo cùng OpenStack
 Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStack
 
 ### Lịch sử
