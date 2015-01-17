@@ -3,13 +3,11 @@ Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStac
 
 ### Lịch sử
 ```sh
-Cách khai báo về lịch sử tài liệu, gồm 3 trường thông tin chính
-* Ngày thay đổi.
-* Nội dung thay đổi.
-* Người thay đổi.
+Cách khai báo về lịch sử tài liệu, gồm 3 trường thông tin chính, được phân cách nhau bằng dấu hai chấm
+Ngày thay đổi :  Nội dung thay đổi :  Người thay đổi.
 ```
-16/01/2015: Tạo Tài Liệu : CongTo
-17/01/2015: Bổ sung các mô tả về cách dùng tài liệu, chức năng : CongTo
+* 16/01/2015: Tạo Tài Liệu : CongTo
+* 17/01/2015: Bổ sung các mô tả về cách dùng tài liệu, chức năng : CongTo
 
 ### Cách dùng
 * Mục tiêu là làm ra một trang web để quản trị OpenStack hay còn gọi là dashboard, portal, horizon ..
