@@ -22,5 +22,23 @@ Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStac
 - Tính sửa người dùng  (thay đổi email, thay đổi email, số điện thoại, tên công ty/đơn vị.
 - Tính năng khóa tạm thời
 - Tính năng xóa vĩnh viễn
+- Tính năng phân quyền cho người dùng (có role gì, thuộc tenant nào...)
+
+# Tính năng quản lý image 
+- Tính năng tạo mới image
+- Tính năng sửa tên image
+- Tính năng phân quyền sử dụng cho image
+- 
+
+# Tính năng quản lý hypervisor
+- Thống kê tài nguyên của hypervisor mà OpenStack báo cáo
+- Thống kế tài nguyên thật của hypervisor, kiểm tra tài nguyên của máy vật lý.
+
+# Tính năng quản lý instance
+- Liệt kê các instance, kể cả khác tenant, 
+- Shutdown toàn bộ các instance, kể cả khác tenant
+- Reboot toàn bộ các instance, kể cả khác tenant
+- Stop toàn bộ các instance, kể cả khác tenant
+
 
 ### CÁC CHỨC NĂNG CỦA DASHBOARD MẶC ĐỊNH (BẢN ICEHOUSE TRỞ ĐI)
