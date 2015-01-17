@@ -10,9 +10,6 @@ Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStac
 | 17/01/2015    | CongTo      |   Bổ sung các mục lớn về Dashboard |
 | |     |   |
 
-* 16/01/2015: Tạo Tài Liệu : CongTo
-* 17/01/2015: Bổ sung các mô tả về cách dùng tài liệu, chức năng : CongTo
-
 ### CÁCH DÙNG
 * Mục tiêu là làm ra một trang web để quản trị OpenStack hay còn gọi là dashboard, portal, horizon ..
 * Mô tả các ý tưởng, minh họa chúng bằng mọi cách
