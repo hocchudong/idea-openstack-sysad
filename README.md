@@ -42,3 +42,7 @@ Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStac
 
 
 ### CÁC CHỨC NĂNG CỦA DASHBOARD MẶC ĐỊNH (BẢN ICEHOUSE TRỞ ĐI)
+
+### TÀI LIỆU THAM KHẢO
+- http://www.slideshare.net/delapsley1/openstack-horizon-controlling-the-cloud-using-django
+- http://www.slideshare.net/delapsley1/20141002-delapsleyopenstacksummitrealtimestatisticsfinal
