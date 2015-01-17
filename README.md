@@ -3,7 +3,7 @@ Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStac
 
 ### LỊCH SỬ
 * Dùng để mô tả các thay đổi trong tài liệu này: 
-* 
+
 | Ngày thay đổi     | Người thay đổi      | Nội dung thay đổi  |
 | ------------- |:-------------:| -----:|
 | 16/01/2015    | CongTo | Tạo tài liệu |
