@@ -16,6 +16,11 @@ Các ý tưởng dành cho sysad, devops thể hiện chuyên môn về OpenStac
 * Ghi chép các chú ý quan trọng.
 
 ### CÁC CHỨC NĂNG CHO DASHBOARD PHIÊN BẢN MỚI
-
+#### Đối với người quản trị
+##### Tính năng quản trị người dùng
+- Tạo thêm người dùng (tạo mới tài khoản)
+- Tính sửa người dùng  (thay đổi email, thay đổi email, số điện thoại, tên công ty/đơn vị.
+- Tính năng khóa tạm thời
+- Tính năng xóa vĩnh viễn
 
 ### CÁC CHỨC NĂNG CỦA DASHBOARD MẶC ĐỊNH (BẢN ICEHOUSE TRỞ ĐI)
